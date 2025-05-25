@@ -4,7 +4,7 @@
 ![Kaggle](https://img.shields.io/badge/Platform-Kaggle-blue)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A deep learning-based solution for **Soil Classification**, developed as part of the **Kaggle "True Soil Classification" Challenge** hosted by **Namma AI**.
+A deep learning-based solution for **Soil Classification**, developed as part of the **Kaggle "True Soil Classification" Challenge** hosted by **ANNAM AI**.
 
 This repository includes two challenges:
 - 🔹 **Challenge 1:** Multiclass Soil Image Classification
