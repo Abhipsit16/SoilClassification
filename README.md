@@ -37,7 +37,7 @@ This repository includes two challenges:
 - Validation Strategy: 80-20 train-validation split
 
 ### 📊 Performance
-- **F1-Score:** `0.9755` on training data
+- **F1-Score:** `0.9655` on training data
 - Visualization: Confusion matrix, Accuracy & Loss curves
 - Final Output: `submission.csv` with predicted soil types
 
@@ -70,8 +70,8 @@ Despite the complexity of Challenge 2, both tasks were tackled with creative pro
 
 | Challenge | Task Type           | Technique                     | Final Score / Remarks              |
 |----------:|---------------------|-------------------------------|------------------------------------|
-| 1         | Multiclass Classification | Transfer Learning (MobileNetV2) | 🏆 F1 Score: `0.9755`               |
-| 2         | Binary Classification      | Autoencoder Anomaly Detection    | ✅ Functional, but experimental     |
+| 1         | Multiclass Classification | Transfer Learning (MobileNetV2) | 🏆 F1 Score: `0.9655`               |
+| 2         | Binary Classification      | Autoencoder Anomaly Detection    |   🏆 F1 Score: `0.7228`  |
 
 ---
 
