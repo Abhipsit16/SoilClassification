@@ -79,7 +79,7 @@ Despite the complexity of Challenge 2, both tasks were tackled with creative pro
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/soil-classification.git
+   git clone https://github.com/Abhipsit16/SoilClassification_annam.git
    cd soil-classification
 2. Install Dependencies
 ```bash
